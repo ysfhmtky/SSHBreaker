@@ -29,7 +29,7 @@ pip install paramiko pyfiglet
 Clone this repository to your local machine:
 
 ```Copy code
-git clone https://github.com/yourusername/ssh-breaker.git
+git clone https://github.com/ysfhmtky/SSHBreaker.git
 cd ssh-breaker
 ```
 Run the script:
