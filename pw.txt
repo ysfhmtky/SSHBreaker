@@ -1,6 +1,1 @@
-password123
-12345
-letmein
-admin123
-testpass
-
+Add Your Own Wordlist!!!
